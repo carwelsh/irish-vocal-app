@@ -1,7 +1,8 @@
 {
     "name": "Focail an Lae",
     "short_name": "Focail",
-    "start_url": "/index.html",
+    "start_url": "/irish-vocal-app/",
+    "scope": "/irish-vocal-app/",
     "display": "standalone",
     "background_color": "#f0f2f5",
     "theme_color": "#34A853",
