@@ -1,0 +1,21 @@
+{
+    "name": "Focail an Lae",
+    "short_name": "Focail",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f0f2f5",
+    "theme_color": "#34A853",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "images/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
